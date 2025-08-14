@@ -5,10 +5,10 @@ Cuatro HD, ES: Cuatro FHD HD SD,
 Telecinco HD, ES: Telecinco FHD HD SD,
 La Sexta HD, ES: La Sexta FHD HD SD,
 1+1 International
-24 Horas, ES: 24 Horas
+24 Horas,ES: 24 Horas
 24 horas Canarias
 24 horas Cataluña
-324, ES: 324
+324,ES: 324
 324 Catalunya
 7teleValencia
 8madrid TV
