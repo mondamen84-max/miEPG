@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/09/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/09/2025 21:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -22,14 +22,14 @@
   </channel>
   <programme start="20250930075000 +0200" stop="20250930103500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E193</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20250930103500 +0200" stop="20250930150000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Mañaneros 360 T2 E22</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
@@ -64,7 +64,7 @@
   </programme>
   <programme start="20250930155500 +0200" stop="20250930173500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Directo al grano T1 E12</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -88,7 +88,7 @@
   </programme>
   <programme start="20250930192500 +0200" stop="20250930203000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Malas lenguas T2 E12</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.4/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -102,7 +102,7 @@
   </programme>
   <programme start="20250930210000 +0200" stop="20250930214000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | +TP | *6.4/10
+    <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -125,7 +125,7 @@
   </programme>
   <programme start="20250930230000 +0200" stop="20251001001500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Late Xou con Marc Giró T4 E3</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +13 | *6.0/10
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +13 | *6.4/10
 · Marc Giró entrevista a Imanol Arias y María Barranco, protagonistas de la obra de teatro 'Mejor no decirlo'. También visita el plató del programa el cantautor Guitarricadelafuente, que está a punto de empezar su gira internacional.
 · País: España
 · Presenta: Marc Giró.
@@ -140,9 +140,9 @@
 · Productora: RTVE Play.</desc>
   </programme>
   <programme start="20251001012800 +0200" stop="20251001025500 +0200" channel="La 1 Super UHD 4k">
-    <title lang="es">Late Xou con Marc Giró T4</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +13 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
+    <title lang="es">Late Xou con Marc Giró T2 E5</title>
+    <desc lang="es">Entretenimiento,Late Night | 2024 | +13 | *6.2/10
+· Marc Giró entrevista a Lolita Flores, que está de gira con la obra de teatro "Poncia".
 · País: España
 · Presenta: Marc Giró.
 · Productora: RTVE Play.</desc>
@@ -163,7 +163,7 @@
   </programme>
   <programme start="20251001060000 +0200" stop="20251001075000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información,Informativo | 2023 | +TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -251,7 +251,7 @@
   </programme>
   <programme start="20251001210000 +0200" stop="20251001214000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | +TP | *6.4/10
+    <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -968,7 +968,7 @@
   </programme>
   <programme start="20250930061500 +0200" stop="20250930071000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Descubrir: El valle de Katmandu</title>
-    <desc lang="es">Documentales,Viajes | 2023 | +TP
+    <desc lang="es">Documentales,Viajes | 2023 | +TP | *6.0/10
 · Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.
 · País: España
 · Dirección: Jesús Del Caso.</desc>
@@ -1019,13 +1019,13 @@
   </programme>
   <programme start="20250930105500 +0200" stop="20250930112000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">El Chef Errante T1 · Goa</title>
-    <desc lang="es">Ocio y Aficiones,Cocina | 2022 | +TP
+    <desc lang="es">Ocio y Aficiones,Cocina | 2022 | +TP | *6.0/10
 · El equipo se embarca en un cautivador viaje a Goa. A su llegada, el primer encuentro de nuestro chef es con Leo Michaud, un expatriado francés propietario de un restaurante de renombre llamado Baba au Khum en Goa.
 · Presenta: Ranveer Brar.</desc>
   </programme>
   <programme start="20250930112000 +0200" stop="20250930115500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Culturas 2 T4 E10</title>
-    <desc lang="es">Ocio y Aficiones,Espectáculo | 2025 | +TP
+    <desc lang="es">Ocio y Aficiones,Espectáculo | 2025 | +TP | *6.0/10
 · Espacio que trata de reflejar la actualidad, con el objetivo de captar las tendencias culturales, las líneas de pensamiento que van vertebrando la sociedad que construimos.
 · País: España
 · Presenta: Tània Sàrrias.</desc>
@@ -1051,7 +1051,7 @@
   </programme>
   <programme start="20250930144500 +0200" stop="20250930153000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Saber y ganar T27 E195</title>
-    <desc lang="es">Entretenimiento,Concurso | 2024 | +TP | *8.0/10
+    <desc lang="es">Entretenimiento,Concurso | 2024 | +TP | *6.0/10
 · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí.
 · País: España
 · Presenta: Jordi Hurtado.
@@ -1060,7 +1060,7 @@
   </programme>
   <programme start="20250930153000 +0200" stop="20250930161500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Saber y ganar T29 E398</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP | *6.0/10
 · Concurso cultural con varios participantes que compiten hasta eliminarse entre sí.
 · País: España
 · Presenta: Jordi Hurtado, Pilar Vázquez.
@@ -1076,7 +1076,7 @@
   </programme>
   <programme start="20250930170500 +0200" stop="20250930173500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Planeta selva: El bosque mariposa. Sabanas de Sudáfrica</title>
-    <desc lang="es">Documentales,Naturaleza | 2015 | +TP | *6.6/10
+    <desc lang="es">Documentales,Naturaleza | 2015 | +TP | *6.4/10
 · El episodio descubre el bosque Bushveld del África austral, un lugar que forma parte de las inmensas sabanas que cubren gran parte del continente. Un enorme laberinto de árboles y arbustos que sirve de refugio a una gran cantidad de animales.
 · País: Madagascar
 · Dirección: Juan Antonio Rodríguez Llano.
@@ -1085,20 +1085,20 @@
   </programme>
   <programme start="20250930173500 +0200" stop="20250930192500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Malas lenguas T2 E12</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.4/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20250930192500 +0200" stop="20250930201500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Espacios increíbles E2</title>
-    <desc lang="es">Documentales,Ciencia tecnología | 2019 | +TP | *10.0/10
+    <desc lang="es">Documentales,Ciencia tecnología | 2019 | +TP | *7.8/10
 · George Clarke explora el extraordinario mundo de las pequeñas construcciones.
 · Dirección: George Clarke.</desc>
   </programme>
   <programme start="20250930201500 +0200" stop="20250930210000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Grand Designs T23 · Derbyshire</title>
-    <desc lang="es">Ocio y Aficiones,Bricolaje | 2022 | +TP
+    <desc lang="es">Ocio y Aficiones,Bricolaje | 2022 | +TP | *6.0/10
 · Mike y Sarah quieren construir una enorme granja moderna en la que vivir de sus animales.
 · País: Reino Unido
 · Presenta: Kevin McCloud.</desc>
@@ -1113,7 +1113,7 @@
   </programme>
   <programme start="20250930213000 +0200" stop="20250930220000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Cifras y letras T3 E21</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP | *6.0/10
 · Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
 · País: España
 · Presenta: Aitor Albizua.
@@ -1121,7 +1121,7 @@
   </programme>
   <programme start="20250930220000 +0200" stop="20250930223000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">El camino del agua</title>
-    <desc lang="es">Documentales,Biografía | 2025 | +TP
+    <desc lang="es">Documentales,Biografía | 2025 | +TP | *6.0/10
 · La historia de cómo Teresa Perales encontró en la natación un espacio de recuperación, fortaleza y autoafirmación, un camino vital para la superación de una discapacidad que la obligó a reinventarse.
 · País: España</desc>
   </programme>
@@ -1138,7 +1138,7 @@
   </programme>
   <programme start="20251001001000 +0200" stop="20251001020000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">El ángel de Budapest</title>
-    <desc lang="es">Cine,Histórico | 2011 | +13 | *8.8/10
+    <desc lang="es">Cine,Histórico | 2011 | +13 | *8.4/10
 · En la Hungría de 1944, Ángel Sanz-Briz, un diplomático español en Budapest, utilizará todos sus recursos para salvar a los judíos enviados a los campos de exterminio.
 · País: España
 · Dirección: Luis Oliveros.
@@ -1150,14 +1150,14 @@
   </programme>
   <programme start="20251001020000 +0200" stop="20251001023000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Conciertos de Radio-3 T25/26 · Adormidera</title>
-    <desc lang="es">Música,Concierto | 2025 | +7
+    <desc lang="es">Música,Concierto | 2025 | +7 | *6.0/10
 · Adormidera presenta en directo su nuevo álbum "La Leona", un viaje haciendo equilibrios entre la crudeza y la potencia del rock y la intensidad emocional.
 · País: España
 · Dirección: Tomás Fernando Flores.</desc>
   </programme>
   <programme start="20251001023000 +0200" stop="20251001031500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Espacios increíbles E1</title>
-    <desc lang="es">Documentales,Ciencia tecnología | 2018 | +TP | *6.2/10
+    <desc lang="es">Documentales,Ciencia tecnología | 2018 | +TP | *6.0/10
 · George Clarke explora el extraordinario mundo de las pequeñas construcciones.
 · Dirección: George Clarke.</desc>
   </programme>
@@ -1179,7 +1179,7 @@
   </programme>
   <programme start="20251001045500 +0200" stop="20251001052500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Planeta selva: El bosque infinito</title>
-    <desc lang="es">Documentales,Naturaleza | 2017 | +TP | *6.2/10
+    <desc lang="es">Documentales,Naturaleza | 2017 | +TP | *6.0/10
 · El equipo visita la Taiga, el bosque más grande del planeta que está en varios continentes.
 · País: Madagascar
 · Dirección: Juan Antonio Rodríguez Llano.
@@ -1253,7 +1253,7 @@
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20251001105500 +0200" stop="20251001112000 +0200" channel="La 2 Super Full HD 8k">
-    <title lang="es">Expedición culinaria - Cocinar con fuego</title>
+    <title lang="es">Expedición culinaria - Cocinar con fuego · Al fuego</title>
     <desc lang="es">Ocio y Aficiones,Cocina | 2016 | +TP | *5.2/10
 · Descubrimos las diferentes técnicas de cocinar al fuego.
 · País: Australia
@@ -1286,7 +1286,7 @@
   </programme>
   <programme start="20251001135000 +0200" stop="20251001144500 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">La pirámide T1</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP | *7.0/10
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +TP | *6.6/10
 · Tres concursantes intentan sumar el mayor número de puntos en varias pruebas de asociación de palabras, con la ayuda de varios personajes conocidos.
 · País: España
 · Presenta: Itziar Miranda.</desc>
@@ -1326,7 +1326,7 @@
   </programme>
   <programme start="20251001192500 +0200" stop="20251001202000 +0200" channel="La 2 Super Full HD 8k">
     <title lang="es">Espacios increíbles</title>
-    <desc lang="es">Documentales,Ciencia tecnología | 2023 | +TP | *7.0/10
+    <desc lang="es">Documentales,Ciencia tecnología | 2023 | +TP | *6.8/10
 · George Clarke explora el extraordinario mundo de las pequeñas construcciones.
 · Dirección: George Clarke.</desc>
   </programme>
