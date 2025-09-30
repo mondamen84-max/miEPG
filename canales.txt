@@ -348,12 +348,12 @@ M+ Hits HD,M+ Series FHD (ES)
 M+ Indie HD,M+ Indie FHD (ES)
 M+ LaLiga 2 HDR
 M+ LaLiga HDR
-M+ LaLiga TV 2 HD,M+ LaLiga 2 FHD (ES)
-M+ LaLiga TV 3 HD,M+ LaLiga 3 FHD (ES)
-M+ LaLiga TV 4,M+ LaLiga 4 FHD (ES)*
-M+ LaLiga TV 5
-M+ LaLiga TV 6
-M+ LaLiga TV HD,M+ LaLiga FHD (ES) Multiaudio
+M+ LaLiga 2 HD,M+ LaLiga 2 FHD (ES)
+M+ LaLiga 3 HD,M+ LaLiga 3 FHD (ES)
+M+ LaLiga 4,M+ LaLiga 4 FHD (ES)*
+M+ LaLiga 5
+M+ LaLiga 6
+M+ LaLiga HD,M+ LaLiga FHD (ES) Multiaudio
 M+ Liga de Campeones 2 HD,M+ Liga Campeones 2 FHD (ES) Multiaudio
 M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (ES)
@@ -895,12 +895,12 @@ M+ Hits HD,M+ Series SD (ES)
 M+ Indie HD,M+ Indie SD (ES)
 M+ LaLiga 2 HDR
 M+ LaLiga HDR
-M+ LaLiga TV 2 HD,M+ LaLiga 2 SD (ES)
-M+ LaLiga TV 3 HD,M+ LaLiga 3 SD (ES)
-M+ LaLiga TV 4,M+ LaLiga 4 SD (ES)*
-M+ LaLiga TV 5
-M+ LaLiga TV 6
-M+ LaLiga TV HD,M+ LaLiga SD (ES) Multiaudio
+M+ LaLiga 2 HD,M+ LaLiga 2 SD (ES)
+M+ LaLiga 3 HD,M+ LaLiga 3 SD (ES)
+M+ LaLiga 4,M+ LaLiga 4 SD (ES)*
+M+ LaLiga 5
+M+ LaLiga 6
+M+ LaLiga HD,M+ LaLiga SD (ES) Multiaudio
 M+ Liga de Campeones 2 HD,M+ Liga Campeones 2 SD (ES) Multiaudio
 M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 SD (ES)
