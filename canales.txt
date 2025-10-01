@@ -929,4 +929,3 @@ TV3 Catalunya,TV3 SD (ES)
 UBEAT,U-BEAT SD (ES)
 Warner TV HD,WARNER TV SD (ES)
 XTRM,Xtrm SD (ES)
-
