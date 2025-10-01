@@ -209,10 +209,6 @@ Decasa HD,ES: Decasa SD
 Decasa HD,ES-6 Decasa (FHD)
 Decasa HD,ES-6 Decasa (HD)
 Decasa HD,ES-6 Decasa (SD)
-DejateTV
-DePelícula
-Deutsche W
-Dhípica
 Discovery,Discovery Chanel FHD (ES)
 Discovery,ES: Discovery Chanel FHD
 Discovery,ES: Discovery Chanel HD
@@ -229,7 +225,6 @@ Divinity HD,ES: Divinity SD
 Divinity HD,ES-6 Divinity (FHD)
 Divinity HD,ES-6 Divinity (HD)
 Divinity HD,ES-6 Divinity (SD)
-Djazz
 DKISS,DKiss TV FHD (ES)
 DKISS,ES: DKiss TV FHD
 DKISS,ES: DKiss TV HD
@@ -246,35 +241,15 @@ Dreamworks HD,ES: DreamWorks SD
 Dreamworks HD,ES-6 DreamWorks (FHD)
 Dreamworks HD,ES-6 DreamWorks (HD)
 Dreamworks HD,ES-6 DreamWorks (SD)
-DSPORTS
-DSPORTS+
-DSPORTS 2
-DSPORTS Fight
-EITB Basque
-El 33 Catalunya
-El 9 TV
-El club de la comedia
-El Hormiguero
-El Toro TV
-EmpordaTV
-En Familia (Rakuten TV),EnFamilia HD (ES)
-Energy
-Equipo de investigación
-Escapa TV
-ESPN
-ESPN 2
-ESPN 3
-ESPN 4
-ESPN Deportes
-ESPN International
+Energy,Energy FHD (ES)
+Energy,ES: Energy TV FHD
+Energy,ES: Energy TV HD
+Energy,ES: Energy TV SD
+Energy,ES-6 Energy TV (FHD)
+Energy,ES-6 Energy TV (HD)
+Energy,ES-6 Energy TV (SD)
 Esport 3,Esport 3 SD (ES)
 Esport3 Catalunya
-ETB1
-ETB2
-ETB3
-ETB4
-ETV
-EuroNews
 Eurosport 1 HD,Eurosport 1 FHD (ES)
 Eurosport 1,ES: Eurosport 1 FHD
 Eurosport 1,ES: Eurosport 1 HD
@@ -289,9 +264,6 @@ Eurosport 2,ES: Eurosport 2 SD
 Eurosport 2,ES-6 Eurosport 2 (FHD)
 Eurosport 2,ES-6 Eurosport 2 (HD)
 Eurosport 2,ES-6 Eurosport 2 (SD)
-Eurosport 4K
-EWTN
-Extreme Channel
 Factoría de Ficción,FDF FHD (ES)
 Factoría de Ficción,ES: FDF FHD
 Factoría de FicciónD,ES: FDF HD
@@ -649,11 +621,6 @@ National Geographic HD,ES: Nat Geographic SD
 National Geographic HD,ES-6 Nat Geographic (FHD)
 National Geographic HD,ES-6 Nat Geographic (HD)
 National Geographic HD,ES-6 Nat Geographic (SD)
-NatureTime
-Náutica TV
-Nautical Channel
-Navarra TV
-Negocios TV
 Neox,Neox FHD (ES)
 Neox,ES: Neox FHD
 Neox,ES: Neox HD
@@ -797,16 +764,6 @@ Ten,ES: Ten SD
 Ten,ES-6 Ten (FHD)
 Ten,ES-6 Ten (HD)
 Ten,ES-6 Ten (SD)
-Tennis Channel
-Thrillers (Rakuten TV)
-tlnovelas
-Todo Crimen (Rakuten TV)
-Toon Goggles
-Top Barça
-Torolé TV
-TPA Asturias
-TPA7 Asturias
-TPA8 Asturias
 TR3CE
 TRACE Latina
 TRACE Sports Stars
@@ -835,13 +792,6 @@ TV3 Catalunya,ES-6 TV3 (FHD)
 TV3 Catalunya,ES-6 TV3 (HD)
 TV3 Catalunya,ES-6 TV3 (SD)
 TV3CAT Catalunya
-TV5 Monde Europe HD
-TVG
-TVG Europa HD
-TVG2
-tvmataró
-TVR Rioja
-TyC Sports
 UBEAT,U-BEAT FHD (ES)
 UBEAT,ES: U-BEAT FHD
 UBEAT,ES: U-BEAT HD
@@ -849,17 +799,6 @@ UBEAT,ES: U-BEAT SD
 UBEAT,ES-6 U-BEAT (FHD)
 UBEAT,ES-6 U-BEAT (HD)
 UBEAT,ES-6 U-BEAT (SD)
-UCL
-Unbeaten
-Vallès Visió
-Vamos BAR
-Vamos BAR 2
-VE PLUS TV
-Veo7
-VinTV
-Vivid TV
-Vivir con gatos
-Vivir con perros
 Warner TV HD,WARNER TV FHD (ES)
 Warner TV HD,ES: WARNER TV FHD
 Warner TV HD,ES: WARNER TV HD
@@ -877,247 +816,79 @@ XTRM,ES-6 Xtrm (SD)
 24 Horas,24 Horas SD (ES)
 24 horas Canarias
 24 horas Cataluña
-324,ES-05 324
 324 Catalunya,3/24 SD (ES)
-7teleValencia
-8madrid TV
-À Punt
-Acción (Rakuten TV)
-ACL Cornhole TV
-Acontra+
-Al Jazeera English HD
-Alacantí TV
-Alquiler 1
-Alquiler HD
 AMC Break,AMC Break SD (ES)
 AMC Crime,AMC Crime SD (ES)
 AMC HD,AMC SD (ES)
-Andalucía TV
-Anime Visión
-Anime Visión Classics
 Antena 3 HD,Antena 3 SD (ES)
-Antena Motor
-Aquí no hay quién viva
-Aragón TV
-Aragón TV Internacional
-Arirang TV HD
-Atrescine
 Atreseries,A3Series SD (ES)
-ATRESplayer PREMIUM
 AXN HD,AXN SD (ES)
 AXN Movies HD,AXN Movies SD (ES)
 Baby TV,Baby TV SD (ES)
-Banyoles TV
-BBC Drama
-BBC Food
-BBC History
-BBC Top Gear
-BBC World News Europe HD
 Be Mad,Be Mad SD (ES)
-beIN SPORTS en español
-beIN SPORTS XTRA ñ
-Betevé
-Betis TV
-Billiard TV
-Bloomberg TV Europe
 Boing,Boing SD (ES)
 BOM Cine,Bom Cine SD (ES)
-Bon Dia TV
-Boxing TV
 BuenViaje,BUEN VIAJE SD (ES)
 Calle 13 HD,Calle 13 SD (ES)
-Canal 10 Empordà
-Canal Blau
 Canal Cocina,Cocina SD (ES)
-Canal de las Estrellas
-Canal Extremadura
-Canal Extremadura SAT
 Canal Hollywood HD,Hollywood SD (ES)
-Canal Reus TV
-Canal Sur Andalucía
 Canal Sur HD,Canal Sur SD (ES)
-Canal Taronja Anoia
-Canal Taronja Central
-Canal Terrassa
-Canal Terres de l'Ebre
-Canal21 Ebre
-Caracol TV
-Caza y Pesca HD
-Cazavisión
-CGTN Documentary
-CGTN Español
-Cine Español (Rakuten TV)
-Cine Feel Good
-Cines Verdi TV
 Clan,Clan Tve SD (ES)
-Clásicos atresplayer
-Classica HD
-Club MTV
-CMM TV
-CNBC Europe HD
-CNN en Español
-CNN International Europe
-Comedia atresplayer
 Comedias (Rakuten TV),RakutenTV Comedias SD (ES)
 Comedy Central HD,Comedy Central SD (ES)
-Concert Channel
-Cosmo HD
-Crimen (Rakuten TV)
 Cuatro HD,Cuatro SD (ES) 
-Cubavisión Internacional HD
-Cuéntame
-Cugat Media
 DARK,DARK SD (ES)
-Dark Rojo
-DAZN 1 BAR,DAZN 1 BAR ( VODAFONE )
 DAZN 1 HD,DAZN 1 SD (ES)
-DAZN 2 BAR,DAZN 2 BAR ( VODAFONE )
 DAZN 2 HD,DAZN 2 SD (ES)
 DAZN 3 HD,DAZN 3 SD (ES)
 DAZN 4 HD,DAZN 4 SD (ES)
-DAZN F1 BAR,DAZN F1 BAR ( VODAFONE )
 DAZN F1 HD,DAZN F1 SD (ES)
 DAZN LaLiga 2 HD,DAZN LaLiga 2 FHD (ES)
-DAZN LaLiga 3,DAZN LaLiga 3 SD (ES)*
-DAZN LaLiga 4,DAZN LaLiga 4 SD (ES)*
-DAZN LaLiga 5,DAZN LaLiga 5 SD (ES)*
+DAZN LaLiga 3,DAZN LaLiga 3 SD (ES)
+DAZN LaLiga 4,DAZN LaLiga 4 SD (ES)
+DAZN LaLiga 5,DAZN LaLiga 5 SD (ES)
 DAZN LaLiga HD,DAZN LaLiga SD (ES)
 DBike,DBIKE SD (ES)
 Decasa,Decasa SD (ES)
-DejateTV
-DePelícula
-Deutsche W
-Dhípica
 Discovery,Discovery Chanel SD (ES)
-Discovery Turbo
 Disney Junior,Disney JR SD (ES)
 Divinity,Divinity SD (ES)
-Djazz
-DKISS,DKiss TV SD (ES
+DKISS,DKiss TV SD (ES)
 DMAX,DMAX SD (ES)
 Dramas (Rakuten TV),RakutenTV Drama SD (ES)
 Dreamworks HD,M+ DreamWorks SD (ES)
-DSPORTS
-DSPORTS+
-DSPORTS 2
-DSPORTS Fight
-EITB Basque
-El 33 Catalunya
-El 9 TV
-El club de la comedia
-El Hormiguero
-El Toro TV
-EmpordaTV
 En Familia (Rakuten TV),EnFamilia SD (ES)
-Energy
-Equipo de investigación
-Escapa TV
-ESPN
-ESPN 2
-ESPN 3
-ESPN 4
-ESPN Deportes
-ESPN International
+Energy,Energy SD (ES)
 Esport 3,Esport 3 SD (ES)
-Esport3 Catalunya
-ETB1
-ETB2
-ETB3
-ETB4
-ETV
-EuroNews
 Eurosport 1 HD,Eurosport 1 SD (ES)
 Eurosport 2,Eurosport 2 SD (ES)
-Eurosport 4K
-EWTN
-Extreme Channel
 Factoría de Ficción,FDF SD (ES)
-Fast&amp;FunBox
-Festival 4K
-FIFA+
-Fight Box HD
 Fight Sports,Fight Sports (MI TELE PLUS) (ES)
 Fight Time,Fight Time HD (ES)
-FightSports
-Flamenco Auditorio
-Flooxer
-FoQ
-FOX SPORTS
-FOX SPORTS 2
-FOX SPORTS 3
 GOL,Gol Play SD (ES)
-GolStadium
-GolStadium BAR
-Gulli
-HBO Max Avances
 Historia,Historia SD (ES)
-Historia y Vida
-HIT TV
-Horse TV
-IB3 TV Illes Balears
-Iberalia caza
-Iberalia pesca
-Iberalia TV
-iConcerts
-Imás TV
-Infinity Comedia
-Infinity En la calle
-Infinity+ LQSA
-Infinity Top Series
-Infinity Viajes
-Información TV
-Inquietos atresplayer
-Kidz
-La 1 Canarias
-La 1 Cataluña
 La 1 HD,La 1 SD (ES)
 La 2,La 2 SD (ES)
-La Revuelta
 La Sexta HD,La Sexta SD (ES)
-LALIGA Inside
-LaLiga TV BAR 2,LaLigaTV BAR2 ( VODAFONE )
-LaLiga TV BAR 3
-LaLiga TV BAR 4
-LaLiga TV BAR 5
-LaLiga TV BAR HD,LaLigaTV BAR ( VODAFONE )
 LaLiga TV Hypermotion 2,Liga Hypermotion 2 SD (ES)
 LaLiga TV Hypermotion 3,Liga Hypermotion 3 SD (ES)
 LaLiga TV Hypermotion HD,Liga Hypermotion SD (ES)
-Levante TV
-Libertad Digital TV
-Liga de Campeones BAR 2
-Lleida TV
-Lolly Kids
-Los Conciertos de Radio 3
-Love the Planet
-Love Wine
 M+ Acción HD,M+ Accion SD (ES)
 M+ Cine Español,M+ Cine Ñ SD (ES)
 M+ Clásicos HD,M+ Clasicos SD (ES)
 M+ Comedia HD,M+ Comedia SD (ES)
 M+ Deportes 2 HD,M+ Deportes 2 SD (ES)
-M+ Deportes 3
-M+ Deportes 4
-M+ Deportes 5
-M+ Deportes 6
-M+ Deportes 7
-M+ Deportes 8
 M+ Deportes HD,M+ Deportes SD (ES)
 M+ Documentales HD,M+ Documentales SD (ES)
 M+ Drama HD,M+ Drama SD (ES)
 M+ Ellas Vamos HD,#VAMOS ELLAS SD (ES)
 M+ Estrenos HD,"M+ Cine SD (ES)
-M+ Golf 2 HD
 M+ Golf HD,M+ Golf SD (ES)
 M+ Hits HD,M+ Series SD (ES)
 M+ Indie HD,M+ Indie SD (ES)
-M+ LaLiga 2 HDR
-M+ LaLiga HDR
 M+ LaLiga 2 HD,M+ LaLiga 2 SD (ES)
 M+ LaLiga 3 HD,M+ LaLiga 3 SD (ES)
-M+ LaLiga 4,M+ LaLiga 4 SD (ES)*
-M+ LaLiga 5
-M+ LaLiga 6
+M+ LaLiga 4,M+ LaLiga 4 SD (ES)
 M+ LaLiga HD,M+ LaLiga SD (ES) Multiaudio
 M+ Liga de Campeones 2 HD,M+ Liga Campeones 2 SD (ES) Multiaudio
 M+ Liga de Campeones 2 HDR
@@ -1127,152 +898,35 @@ M+ Liga de Campeones HDR
 M+ Originales HD,M+ Originales SD (ES)
 M+ PopUp,M+ POPUP SD (ES)
 M+ PopUp 2,M+ POPUP 2 SD (ES)
-M+ Vacaciones
 M+ Vamos HD,#VAMOS SD (ES)
-M+ Wéstern
-M+ Wimbledon UHD
-M6
-Matchroom Boxing
 Mega,Mega SD (ES)
-Mezzo
 Mezzo Live HD,Mezzo Live SD (ES)
-Moto ADV
-Motorvision
-Motorvision TV
 Movistar Plus+ 2 HD,Movistar Plus+ 2 SD (ES)
 Movistar Plus+ HD,Movistar Plus+ SD (ES)
-mtmad
-MTV 00s
-MTV 80s
-MTV 90s
-MTV Classic
 MTV España,Mtv Espana SD (ES)
-MTV Hits HD
-MTV Live
-Multicine atresplayer
-MyPadel TV
-MyTime Movie Network (Rakuten TV)
 Nat Geo Wild HD,Nat Geo Wild SD (ES)
 National Geographic HD,Nat Geographic SD (ES)
-NatureTime
-Náutica TV
-Nautical Channel
-Navarra TV
-Negocios TV
 Neox,Neox FHD (ES)
 NFL Network,NFL Network HD (ES)
 Nick JR,Nick Jr HD (ES)
 Nickelodeon HD,Nickelodeon SD (ES)
-NickMusic
 Nova,Nova SD (ES)
-Nuestra Tele Internacional
 Odisea,Odisea SD (ES)
-Olot TV
-Onda Algeciras TV
-Onda Cádiz TV
-Onetoro
-Padel 24h
 Paramount Network,Paramount SD (ES)
-PDC Darts
-Películas Románticas (Rakuten TV)
-Pelis Top (Rakuten TV)
-Penedès TV
-PLL Network
-Popular TV Región de Murcia
-PowerSports World
-Pro TV
-QWest Mix
-Real Madrid TV
 Red Bull TV,Red bull TV HD (ES)
-Red Bull TV (Rakuten TV)
-REKTV
-Runtime Acción
-Runtime Cine y Series
-RunTime Clásicos
-Runtime Comedia
-Runtime Crimen
-RunTime Familia
-Runtime Romance
-Runtime Series
-Runtime Thriller-Terror
-Saber y ganar
-Sangre Fría
-SELEKT
-Sky News International
-Sky Sports 16
-SkyShowtime
-Sol Música
 Somos,Somos SD (ES)
-Somos Cine
-Squirrel TV
 STAR Channel HD,Star+ SD (ES)
-Star TVE HD
 Sundance TV,Sundance TV SD (ES)
-Surf Channel
 SX3,Super 3/33 (ES)
-SX3 Catalunya
 SyFy HD,Syfy SD (ES)
-TAC12
 TCM HD,TCM SD (ES)
-Tele Elx
 Telecinco HD,Telecinco SD (ES)
 Teledeporte,Teledeporte SD (ES)
-Telemadrid
-Telemadrid Internacional
-Telesur HD
-Televisió de Badalona
-Televisió de l'Hospitalet
-Televisió del Ripollès
 Ten,Ten SD (ES)
-Tennis Channel
-Thrillers (Rakuten TV)
-tlnovelas
-Todo Crimen (Rakuten TV)
-Toon Goggles
-Top Barça
-Torolé TV
-TPA Asturias
-TPA7 Asturias
-TPA8 Asturias
-TR3CE
-TRACE Latina
-TRACE Sports Stars
-TRACE Urban
 TRECE,Trece SD (ES)
-TUDN (Estados Unidos)
-TUDN (México)
-TV Berguedà
-TV Canaria
-TV Chile
-TV Costa Brava
-TV Girona
-TV Sabadell - Vallès
 TV3,Tv3 SD (ES)
 TV3 Catalunya,TV3 SD (ES)
-TV3CAT Catalunya
-TV5 Monde Europe HD
-TVG
-TVG Europa HD
-TVG2
-tvmataró
-TVR Rioja
-TyC Sports
 UBEAT,U-BEAT SD (ES)
-UCL
-Unbeaten
-Vallès Visió
-Vamos BAR
-Vamos BAR 2
-VE PLUS TV
-Veo7
-VinTV
-Vivid TV
-Vivir con gatos
-Vivir con perros
 Warner TV HD,WARNER TV SD (ES)
 XTRM,Xtrm SD (ES)
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+
