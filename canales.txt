@@ -142,9 +142,6 @@ Cuatro HD,ES: Cuatro SD
 Cuatro HD,ES-6 Cuatro (FHD)
 Cuatro HD,ES-6 Cuatro (HD)
 Cuatro HD,ES-6 Cuatro (SD)
-Cubavisión Internacional HD
-Cuéntame
-Cugat Media
 DARK,DARK FHD (ES)
 DARK,ES: DARK FHD
 DARK,ES: DARK HD
@@ -152,7 +149,6 @@ DARK,ES: DARK SD
 DARK,ES-6 DARK (FHD)
 DARK,ES-6 DARK (HD)
 DARK,ES-6 DARK (SD)
-Dark Rojo
 DAZN 1 BAR,DAZN 1 BAR ( VODAFONE )
 DAZN 1 HD,DAZN 1 FHD (ES)
 DAZN 1 HD,ES: Dazn 1 FHD
@@ -290,19 +286,8 @@ Factoría de Ficción,ES: FDF SD
 Factoría de Ficción,ES-6 FDF (FHD)
 Factoría de Ficción,ES-6 FDF (HD)
 Factoría de Ficción,ES-6 FDF (SD)
-Fast&amp;FunBox
-Festival 4K
-FIFA+
-Fight Box HD
 Fight Sports,Fight Sports (MI TELE PLUS) (ES)
 Fight Time,Fight Time HD (ES)
-FightSports
-Flamenco Auditorio
-Flooxer
-FoQ
-FOX SPORTS
-FOX SPORTS 2
-FOX SPORTS 3
 GOL,Gol Play FHD (ES)
 GOL,ES: GOL Play FHD
 GOL,ES: GOL Play HD
@@ -310,10 +295,6 @@ GOL,ES: GOL Play SD
 GOL,ES-6 Gol Play (FHD)
 GOL,ES-6 Gol Play (HD)
 GOL,ES-6 Gol Play (SD)
-GolStadium
-GolStadium BAR
-Gulli
-HBO Max Avances
 Historia,Historia FHD (ES)
 Historia,ES: Historia FHD
 Historia,ES: Historia HD
@@ -321,25 +302,6 @@ Historia,ES: Historia SD
 Historia,ES-6 Historia (FHD)
 Historia,ES-6 Historia (HD)
 Historia,ES-6 Historia (SD)
-Historia y Vida
-HIT TV
-Horse TV
-IB3 TV Illes Balears
-Iberalia caza
-Iberalia pesca
-Iberalia TV
-iConcerts
-Imás TV
-Infinity Comedia
-Infinity En la calle
-Infinity+ LQSA
-Infinity Top Series
-Infinity Viajes
-Información TV
-Inquietos atresplayer
-Kidz
-La 1 Canarias
-La 1 Cataluña
 La 1 HD,La 1 FHD (ES)
 La 1 HD,ES: La 1 FHD
 La 1 HD,ES: La 1 HD
@@ -389,14 +351,6 @@ LaLiga TV Hypermotion HD,ES: Liga Hypermotion SD
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (FHD)
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (HD)
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (SD)
-Levante TV
-Libertad Digital TV
-Liga de Campeones BAR 2
-Lleida TV
-Lolly Kids
-Los Conciertos de Radio 3
-Love the Planet
-Love Wine
 M+ Acción HD,M+ Accion FHD (ES)
 M+ Acción HD,ES: M. Accion FHD
 M+ Acción HD,ES: M. Accion HD
@@ -432,12 +386,6 @@ M+ Deportes 2 HD,ES: M. Deportes 2 SD
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (FHD)
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (HD)
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (SD)
-M+ Deportes 3
-M+ Deportes 4
-M+ Deportes 5
-M+ Deportes 6
-M+ Deportes 7
-M+ Deportes 8
 M+ Deportes HD,M+ Deportes FHD (ES)
 M+ Deportes HD,ES: M. Deportes FHD
 M+ Deportes HD,ES: M. Deportes HD
@@ -573,10 +521,6 @@ M+ Vamos HD,ES: #Vamos SD
 M+ Vamos HD,ES-6 #VAMOS (FHD)
 M+ Vamos HD,ES-6 #VAMOS (HD)
 M+ Vamos HD,ES-6 #VAMOS (SD)
-M+ Wéstern
-M+ Wimbledon UHD
-M6
-Matchroom Boxing
 Mega,Mega FHD (ES)
 Mega,ES: MEGA FHD
 Mega,ES: MEGA HD
@@ -609,11 +553,6 @@ Movistar Plus+ HD,ES: Movistar Plus+ SD
 Movistar Plus+ HD,ES-6 Movistar Plus+ (FHD)
 Movistar Plus+ HD,ES-6 Movistar Plus+ (HD)
 Movistar Plus+ HD,ES-6 Movistar Plus+ (SD)
-mtmad
-MTV 00s
-MTV 80s
-MTV 90s
-MTV Classic
 MTV España,Mtv Espana FHD (ES)
 MTV España,ES: MTV España
 MTV España,ES: Mtv Espana HD
@@ -621,11 +560,6 @@ MTV España,ES: Mtv Espana SD
 MTV España,ES-6 Mtv Espana (FHD)
 MTV España,ES-6 Mtv Espana (HD)
 MTV España,ES-6 Mtv Espana (SD)
-MTV Hits HD
-MTV Live
-Multicine atresplayer
-MyPadel TV
-MyTime Movie Network (Rakuten TV)
 Nat Geo Wild HD,Nat Geo Wild FHD (ES)
 Nat Geo Wild HD,ES: NatGeo Wild FHD
 Nat Geo Wild HD,ES: NatGeo Wild HD
@@ -678,41 +612,8 @@ Odisea,ES: Odisea SD
 Odisea,ES-6 Odisea (FHD)
 Odisea,ES-6 Odisea (HD)
 Odisea,ES-6 Odisea (SD)
-Olot TV
-Onda Algeciras TV
-Onda Cádiz TV
-Onetoro
-Padel 24h
 Paramount Network,Paramount SD (ES)
-PDC Darts
-Películas Románticas (Rakuten TV)
-Pelis Top (Rakuten TV)
-Penedès TV
-PLL Network
-Popular TV Región de Murcia
-PowerSports World
-Pro TV
-QWest Mix
-Real Madrid TV
 Red Bull TV,Red bull TV HD (ES)
-Red Bull TV (Rakuten TV)
-REKTV
-Runtime Acción
-Runtime Cine y Series
-RunTime Clásicos
-Runtime Comedia
-Runtime Crimen
-RunTime Familia
-Runtime Romance
-Runtime Series
-Runtime Thriller-Terror
-Saber y ganar
-Sangre Fría
-SELEKT
-Sky News International
-Sky Sports 16
-SkyShowtime
-Sol Música
 Somos,Somos FHD (ES)
 Somos,ES: SOMOS FHD
 Somos,ES: SOMOS HD
@@ -770,12 +671,6 @@ Teledeporte,ES: Teledeporte SD
 Teledeporte,ES-6 Teledeporte (FHD)
 Teledeporte,ES-6 Teledeporte (HD)
 Teledeporte,ES-6 Teledeporte (SD)
-Telemadrid
-Telemadrid Internacional
-Telesur HD
-Televisió de Badalona
-Televisió de l'Hospitalet
-Televisió del Ripollès
 Ten,Ten FHD (ES)
 Ten,ES: Ten FHD
 Ten,ES: Ten HD
@@ -783,10 +678,6 @@ Ten,ES: Ten SD
 Ten,ES-6 Ten (FHD)
 Ten,ES-6 Ten (HD)
 Ten,ES-6 Ten (SD)
-TR3CE
-TRACE Latina
-TRACE Sports Stars
-TRACE Urban
 TRECE,Trece FHD (ES)
 TRECE,ES: Trece FHD
 TRECE,ES: Trece HD
@@ -794,14 +685,6 @@ TRECE,ES: Trece SD
 TRECE,ES-6 Trece (FHD)
 TRECE,ES-6 Trece (HD)
 TRECE,ES-6 Trece (SD)
-TUDN (Estados Unidos)
-TUDN (México)
-TV Berguedà
-TV Canaria
-TV Chile
-TV Costa Brava
-TV Girona
-TV Sabadell - Vallès
 TV3,Tv3 SD (ES)
 TV3 Catalunya,TV3 FHD (ES)
 TV3 Catalunya,ES: TV3 FHD
@@ -833,8 +716,6 @@ XTRM,ES-6 Xtrm (FHD)
 XTRM,ES-6 Xtrm (HD)
 XTRM,ES-6 Xtrm (SD)
 24 Horas,24 Horas SD (ES)
-24 horas Canarias
-24 horas Cataluña
 324 Catalunya,3/24 SD (ES)
 AMC Break,AMC Break SD (ES)
 AMC Crime,AMC Crime SD (ES)
