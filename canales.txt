@@ -151,46 +151,46 @@ DARK,ES-6 DARK (HD)
 DARK,ES-6 DARK (SD)
 DAZN 1 BAR,DAZN 1 BAR ( VODAFONE )
 DAZN 1 HD,DAZN 1 FHD (ES)
-DAZN 1 HD,ES: Dazn 1 FHD
-DAZN 1 HD,ES: Dazn 1 HD
-DAZN 1 HD,ES: Dazn 1 SD
+DAZN 1 HD,SP: ES: Dazn 1 FHD
+DAZN 1 HD,SP: ES: Dazn 1 HD
+DAZN 1 HD,SP: ES: Dazn 1 SD
 DAZN 1 HD,ES-6 DAZN 1 (FHD)
 DAZN 1 HD,ES-6 DAZN 1 (HD)
 DAZN 1 HD,ES-6 DAZN 1 (SD)
 DAZN 2 BAR,DAZN 2 BAR ( VODAFONE )
 DAZN 2 HD,DAZN 2 FHD (ES)
-DAZN 2 HD,ES: Dazn 2 FHD
-DAZN 2 HD,ES: Dazn 2 HD
-DAZN 2 HD,ES: Dazn 2 SD
+DAZN 2 HD,SP: ES: Dazn 2 FHD
+DAZN 2 HD,SP: ES: Dazn 2 HD
+DAZN 2 HD,SP: ES: Dazn 2 SD
 DAZN 2 HD,ES-6 DAZN 2 (FHD)
 DAZN 2 HD,ES-6 DAZN 2 (HD)
 DAZN 2 HD,ES-6 DAZN 2 (SD)
 DAZN 3 HD,DAZN 3 FHD (ES)
-DAZN 3 HD,ES: Dazn 3 FHD
-DAZN 3 HD,ES: Dazn 3 HD
-DAZN 3 HD,ES: Dazn 3 SD
+DAZN 3 HD,SP: ES: Dazn 3 FHD
+DAZN 3 HD,SP: ES: Dazn 3 HD
+DAZN 3 HD,SP: ES: Dazn 3 SD
 DAZN 3 HD,ES-6 DAZN 3 (FHD)
 DAZN 3 HD,ES-6 DAZN 3 (HD)
 DAZN 3 HD,ES-6 DAZN 3 (SD)
 DAZN 4 HD,DAZN 4 FHD (ES)
-DAZN 4 HD,ES: Dazn 4 FHD
-DAZN 4 HD,ES: Dazn 4 HD
-DAZN 4 HD,ES: Dazn 4 SD
+DAZN 4 HD,SP: ES: Dazn 4 FHD
+DAZN 4 HD,SP: ES: Dazn 4 HD
+DAZN 4 HD,SP: ES: Dazn 4 SD
 DAZN 4 HD,ES-6 DAZN 4 (FHD)
 DAZN 4 HD,ES-6 DAZN 4 (HD)
 DAZN 4 HD,ES-6 DAZN 4 (SD)
 DAZN F1 BAR,DAZN F1 BAR ( VODAFONE )
 DAZN F1 HD,DAZN F1 FHD (ES)
-DAZN F1 HD,ES: Dazn F1 FHD
-DAZN F1 HD,ES: Dazn F1 HD
-DAZN F1 HD,ES: Dazn F1 SD
+DAZN F1 HD,SP: ES: Dazn F1 FHD
+DAZN F1 HD,SP: ES: Dazn F1 HD
+DAZN F1 HD,SP: ES: Dazn F1 SD
 DAZN F1 HD,ES-6 DAZN F1 (FHD)
 DAZN F1 HD,ES-6 DAZN F1 (HD)
 DAZN F1 HD,ES-6 DAZN F1 (SD)
 DAZN LaLiga 2 HD,DAZN LaLiga 2 FHD (ES)
-DAZN LaLiga 2 HD,ES: Dazn La Liga 2 FHD
-DAZN LaLiga 2 HD,ES: Dazn La Liga 2 HD
-DAZN LaLiga 2 HD,ES: Dazn La Liga 2 SD
+DAZN LaLiga 2 HD,SP: ES: Dazn La Liga 2 FHD
+DAZN LaLiga 2 HD,SP: ES: Dazn La Liga 2 HD
+DAZN LaLiga 2 HD,SP: ES: Dazn La Liga 2 SD
 DAZN LaLiga 2 HD,ES-6 DAZN LaLiga 2 (FHD)
 DAZN LaLiga 2 HD,ES-6 DAZN LaLiga 2 (HD)
 DAZN LaLiga 2 HD,ES-6 DAZN LaLiga 2 (SD)
@@ -198,9 +198,9 @@ DAZN LaLiga 3,DAZN LaLiga 3 HD (ES)*
 DAZN LaLiga 4,DAZN LaLiga 4 HD (ES)*
 DAZN LaLiga 5,DAZN LaLiga 5 HD (ES)*
 DAZN LaLiga HD,DAZN LaLiga FHD (ES)
-DAZN LaLiga HD,ES: Dazn La Liga 1 FHD
-DAZN LaLiga HD,ES: Dazn La Liga 1 HD
-DAZN LaLiga HD,ES: Dazn La Liga 1 SD
+DAZN LaLiga HD,SP: ES: Dazn La Liga 1 FHD
+DAZN LaLiga HD,SP: ES: Dazn La Liga 1 HD
+DAZN LaLiga HD,SP: ES: Dazn La Liga 1 SD
 DAZN LaLiga HD,ES-6 DAZN LaLiga (FHD)
 DAZN LaLiga HD,ES-6 DAZN LaLiga (HD)
 DAZN LaLiga HD,ES-6 DAZN LaLiga (SD)
@@ -266,16 +266,16 @@ Energy,ES-6 Energy TV (SD)
 Esport 3,Esport 3 SD (ES)
 Esport3 Catalunya
 Eurosport 1 HD,Eurosport 1 FHD (ES)
-Eurosport 1,ES: Eurosport 1 FHD
-Eurosport 1,ES: Eurosport 1 HD
-Eurosport 1,ES: Eurosport 1 SD
+Eurosport 1,SP: ES: Eurosport 1 FHD
+Eurosport 1,SP: ES: Eurosport 1 HD
+Eurosport 1,SP: ES: Eurosport 1 SD
 Eurosport 1,ES-6 Eurosport 1 (FHD)
 Eurosport 1,ES-6 Eurosport 1 (HD)
 Eurosport 1,ES-6 Eurosport 1 (SD)
 Eurosport 2,Eurosport 2 FHD (ES)
-Eurosport 2,ES: Eurosport 2 FHD
-Eurosport 2,ES: Eurosport 2 HD
-Eurosport 2,ES: Eurosport 2 SD
+Eurosport 2,SP: ES: Eurosport 2 FHD
+Eurosport 2,SP: ES: Eurosport 2 HD
+Eurosport 2,SP: ES: Eurosport 2 SD
 Eurosport 2,ES-6 Eurosport 2 (FHD)
 Eurosport 2,ES-6 Eurosport 2 (HD)
 Eurosport 2,ES-6 Eurosport 2 (SD)
@@ -289,9 +289,9 @@ Factoría de Ficción,ES-6 FDF (SD)
 Fight Sports,Fight Sports (MI TELE PLUS) (ES)
 Fight Time,Fight Time HD (ES)
 GOL,Gol Play FHD (ES)
-GOL,ES: GOL Play FHD
-GOL,ES: GOL Play HD
-GOL,ES: GOL Play SD
+GOL,SP: ES: GOL Play FHD
+GOL,SP: ES: GOL Play HD
+GOL,SP: ES: GOL Play SD
 GOL,ES-6 Gol Play (FHD)
 GOL,ES-6 Gol Play (HD)
 GOL,ES-6 Gol Play (SD)
@@ -331,9 +331,9 @@ LaLiga TV BAR 4
 LaLiga TV BAR 5
 LaLiga TV BAR HD,LaLigaTV BAR ( VODAFONE )
 LaLiga TV Hypermotion 2,Liga Hypermotion 2 FHD (ES)
-LaLiga TV Hypermotion 2,ES: Liga Hypermotion 2 FHD
-LaLiga TV Hypermotion 2,ES: Liga Hypermotion 2 HD
-LaLiga TV Hypermotion 2,ES: Liga Hypermotion 2 SD
+LaLiga TV Hypermotion 2,SP: ES: Liga Hypermotion 2 FHD
+LaLiga TV Hypermotion 2,SP: ES: Liga Hypermotion 2 HD
+LaLiga TV Hypermotion 2,SP: ES: Liga Hypermotion 2 SD
 LaLiga TV Hypermotion 2,ES-6 Liga Hypermotion 2 (FHD)
 LaLiga TV Hypermotion 2,ES-6 Liga Hypermotion 2 (HD)
 LaLiga TV Hypermotion 2,ES-6 Liga Hypermotion 2 (SD)
@@ -345,9 +345,9 @@ LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (FHD)
 LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (HD)
 LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (SD)
 LaLiga TV Hypermotion HD,Liga Hypermotion FHD (ES)
-LaLiga TV Hypermotion HD,ES: Liga Hypermotion FHD
-LaLiga TV Hypermotion HD,ES: Liga Hypermotion HD
-LaLiga TV Hypermotion HD,ES: Liga Hypermotion SD
+LaLiga TV Hypermotion HD,SP: ES: Liga Hypermotion FHD
+LaLiga TV Hypermotion HD,SP: ES: Liga Hypermotion HD
+LaLiga TV Hypermotion HD,SP: ES: Liga Hypermotion SD
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (FHD)
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (HD)
 LaLiga TV Hypermotion HD,ES-6 Liga Hypermotion (SD)
@@ -380,16 +380,16 @@ M+ Comedia HD,ES-6 M+ Comedia (FHD)
 M+ Comedia HD,ES-6 M+ Comedia (HD)
 M+ Comedia HD,ES-6 M+ Comedia (SD)
 M+ Deportes 2 HD,M+ Deportes 2 FHD (ES)
-M+ Deportes 2 HD,ES: M. Deportes 2 FHD
-M+ Deportes 2 HD,ES: M. Deportes 2 HD
-M+ Deportes 2 HD,ES: M. Deportes 2 SD
+M+ Deportes 2 HD,SP: ES: M. Deportes 2 FHD
+M+ Deportes 2 HD,SP: ES: M. Deportes 2 HD
+M+ Deportes 2 HD,SP: ES: M. Deportes 2 SD
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (FHD)
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (HD)
 M+ Deportes 2 HD,ES-6 M+ Deportes 2 (SD)
 M+ Deportes HD,M+ Deportes FHD (ES)
-M+ Deportes HD,ES: M. Deportes FHD
-M+ Deportes HD,ES: M. Deportes HD
-M+ Deportes HD,ES: M. Deportes SD
+M+ Deportes HD,SP: ES: M. Deportes FHD
+M+ Deportes HD,SP: ES: M. Deportes HD
+M+ Deportes HD,SP: ES: M. Deportes SD
 M+ Deportes HD,ES-6 M+ Deportes (FHD)
 M+ Deportes HD,ES-6 M+ Deportes (HD)
 M+ Deportes HD,ES-6 M+ Deportes (SD)
@@ -408,12 +408,12 @@ M+ Drama HD,ES-6 M+ Drama (FHD)
 M+ Drama HD,ES-6 M+ Drama (HD)
 M+ Drama HD,ES-6 M+ Drama (SD)
 M+ Ellas Vamos HD,#VAMOS ELLAS FHD (ES)
-M+ Ellas Vamos HD,ES: #VAMOS ELLAS FHD
-M+ Ellas Vamos HD,ES: #VAMOS ELLAS HD
-M+ Ellas Vamos HD,ES: #VAMOS ELLAS SD
-M+ Ellas Vamos HD,ES-6 #VAMOS ELLAS (FHD)
-M+ Ellas Vamos HD,ES-6 #VAMOS ELLAS (HD)
-M+ Ellas Vamos HD,ES-6 #VAMOS ELLAS (SD)
+M+ Ellas Vamos HD,SP: ES: #VAMOS ELLAS FHD
+M+ Ellas Vamos HD,SP: ES: #VAMOS ELLAS HD
+M+ Ellas Vamos HD,SP: ES: #VAMOS ELLAS SD
+M+ Ellas Vamos HD,SP: ES-6 #VAMOS ELLAS (FHD)
+M+ Ellas Vamos HD,SP: ES-6 #VAMOS ELLAS (HD)
+M+ Ellas Vamos HD,SP: ES-6 #VAMOS ELLAS (SD)
 M+ Estrenos HD,"M+ Cine FHD (ES)
 M+ Estrenos HD,ES: M. Cine FHD
 M+ Estrenos HD,ES: M. Cine HD
@@ -423,9 +423,9 @@ M+ Estrenos HD,ES-6 M+ Cine (HD)
 M+ Estrenos HD,ES-6 M+ Cine (SD)
 M+ Golf 2 HD
 M+ Golf HD,M+ Golf FHD (ES)
-M+ Golf HD,ES: M. Golf FHD
-M+ Golf HD,ES: M. Golf HD
-M+ Golf HD,ES: M. Golf SD
+M+ Golf HD,SP: ES: M. Golf FHD
+M+ Golf HD,SP: ES: M. Golf HD
+M+ Golf HD,SP: ES: M. Golf SD
 M+ Golf HD,ES-6 M+ Golf (FHD)
 M+ Golf HD,ES-6 M+ Golf (HD)
 M+ Golf HD,ES-6 M+ Golf (SD)
@@ -446,16 +446,16 @@ M+ Indie HD,ES-6 M+ Indie (SD)
 M+ LaLiga 2 HDR
 M+ LaLiga HDR
 M+ LaLiga 2 HD,M+ LaLiga 2 FHD (ES)
-M+ LaLiga 2 HD,ES: M. LaLiga 2 FHD
-M+ LaLiga 2 HD,ES: M. LaLiga 2 HD
-M+ LaLiga 2 HD,ES: M. LaLiga 2 SD
+M+ LaLiga 2 HD,SP: ES: M. LaLiga 2 FHD
+M+ LaLiga 2 HD,SP: ES: M. LaLiga 2 HD
+M+ LaLiga 2 HD,SP: ES: M. LaLiga 2 SD
 M+ LaLiga 2 HD,ES-6 M+ LaLiga 2 (FHD)
 M+ LaLiga 2 HD,ES-6 M+ LaLiga 2 (HD)
 M+ LaLiga 2 HD,ES-6 M+ LaLiga 2 (SD)
 M+ LaLiga 3 HD,M+ LaLiga 3 FHD (ES)
-M+ LaLiga 3 HD,ES: M. LaLiga 3 FHD
-M+ LaLiga 3 HD,ES: M. LaLiga 3 HD
-M+ LaLiga 3 HD,ES: M. LaLiga 3 SD
+M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 FHD
+M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 HD
+M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 SD
 M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (FHD)
 M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (HD)
 M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (SD)
@@ -463,31 +463,31 @@ M+ LaLiga 4,M+ LaLiga 4 FHD (ES)*
 M+ LaLiga 5
 M+ LaLiga 6
 M+ LaLiga HD,M+ LaLiga FHD (ES) Multiaudio
-M+ LaLiga HD,ES: M. LaLiga FHD
-M+ LaLiga HD,ES: M. LaLiga HD
-M+ LaLiga HD,ES: M. LaLiga SD
+M+ LaLiga HD,SP: ES: M. LaLiga FHD
+M+ LaLiga HD,SP: ES: M. LaLiga HD
+M+ LaLiga HD,SP: ES: M. LaLiga SD
 M+ LaLiga HD,ES-6 M+ LaLiga (FHD)
 M+ LaLiga HD,ES-6 M+ LaLiga (HD)
 M+ LaLiga HD,ES-6 M+ LaLiga (SD)
 M+ Liga de Campeones 2 HD,M+ Liga Campeones 2 FHD (ES) Multiaudio
-M+ Liga de Campeones 2 HD,ES: M. Liga Campeones 2 FHD
-M+ Liga de Campeones 2 HD,ES: M. Liga Campeones 2 HD
-M+ Liga de Campeones 2 HD,ES: M. Liga Campeones 2 SD
+M+ Liga de Campeones 2 HD,SP: ES: M. Liga Campeones 2 FHD
+M+ Liga de Campeones 2 HD,SP: ES: M. Liga Campeones 2 HD
+M+ Liga de Campeones 2 HD,SP: ES: M. Liga Campeones 2 SD
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (FHD)
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (HD)
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (SD)
 M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (ES)
-M+ Liga de Campeones 3 HD,ES: M. Liga Campeones 3 FHD
-M+ Liga de Campeones 3 HD,ES: M. Liga Campeones 3 HD
-M+ Liga de Campeones 3 HD,ES: M. Liga Campeones 3 SD
+M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 FHD
+M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 HD
+M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 SD
 M+ Liga de Campeones 3 HD,ES-6 M+ Liga Campeones 3 (FHD)
 M+ Liga de Campeones 3 HD,ES-6 M+ Liga Campeones 3 (HD)
 M+ Liga de Campeones 3 HD,ES-6 M+ Liga Campeones 3 (SD)
 M+ Liga de Campeones HD,M+ Liga Campeones FHD (ES) Multiaudio
-M+ Liga de Campeones HD,ES: M. Liga Campeones FHD
-M+ Liga de Campeones HD,ES: M. Liga Campeones HD
-M+ Liga de Campeones HD,ES: M. Liga Campeones SD
+M+ Liga de Campeones HD,SP: ES: M. Liga Campeones FHD
+M+ Liga de Campeones HD,SP: ES: M. Liga Campeones HD
+M+ Liga de Campeones HD,SP: ES: M. Liga Campeones SD
 M+ Liga de Campeones HD,ES-6 M+ Liga Campeones (FHD)
 M+ Liga de Campeones HD,ES-6 M+ Liga Campeones (HD)
 M+ Liga de Campeones HD,ES-6 M+ Liga Campeones (SD)
@@ -515,9 +515,9 @@ M+ PopUp 2,ES-6 M+ POPUP 2 (HD)
 M+ PopUp 2,ES-6 M+ POPUP 2 (SD)
 M+ Vacaciones
 M+ Vamos HD,#VAMOS FHD (ES)
-M+ Vamos HD,ES: #Vamos FHD
-M+ Vamos HD,ES: #Vamos HD
-M+ Vamos HD,ES: #Vamos SD
+M+ Vamos HD,SP: ES: #Vamos FHD
+M+ Vamos HD,SP: ES: #Vamos HD
+M+ Vamos HD,SP: ES: #Vamos SD
 M+ Vamos HD,ES-6 #VAMOS (FHD)
 M+ Vamos HD,ES-6 #VAMOS (HD)
 M+ Vamos HD,ES-6 #VAMOS (SD)
@@ -540,16 +540,16 @@ Moto ADV
 Motorvision
 Motorvision TV
 Movistar Plus+ 2 HD,Movistar Plus+ 2 FHD (ES)
-Movistar Plus+ 2 HD,ES: Movistar Plus+ 2 FHD
-Movistar Plus+ 2 HD,ES: Movistar Plus+ 2 HD
-Movistar Plus+ 2 HD,ES: Movistar Plus+ 2 SD
+Movistar Plus+ 2 HD,SP: ES: M. Plus 2 FHD
+Movistar Plus+ 2 HD,SP: ES: M. Plus 2 HD
+Movistar Plus+ 2 HD,SP: ES: M. Plus 2 SD
 Movistar Plus+ 2 HD,ES-6 Movistar Plus+ 2 (FHD)
 Movistar Plus+ 2 HD,ES-6 Movistar Plus+ 2 (HD)
 Movistar Plus+ 2 HD,ES-6 Movistar Plus+ 2 (SD)
 Movistar Plus+ HD,Movistar Plus+ FHD (ES)
-Movistar Plus+ HD,ES: Movistar Plus+ FHD
-Movistar Plus+ HD,ES: Movistar Plus+ HD
-Movistar Plus+ HD,ES: Movistar Plus+ SD
+Movistar Plus+ HD,SP: ES: Movistar Plus+ FHD
+Movistar Plus+ HD,SP: ES: Movistar Plus+ HD
+Movistar Plus+ HD,SP: ES: Movistar Plus+ SD
 Movistar Plus+ HD,ES-6 Movistar Plus+ (FHD)
 Movistar Plus+ HD,ES-6 Movistar Plus+ (HD)
 Movistar Plus+ HD,ES-6 Movistar Plus+ (SD)
@@ -665,9 +665,9 @@ Telecinco HD,ES-6 Telecinco (FHD)
 Telecinco HD,ES-6 Telecinco (HD)
 Telecinco HD,ES-6 Telecinco (SD)
 Teledeporte,Teledeporte FHD (ES)
-Teledeporte,ES: Teledeporte FHD
-Teledeporte,ES: Teledeporte HD
-Teledeporte,ES: Teledeporte SD
+Teledeporte,SP: ES: Teledeporte FHD
+Teledeporte,SP: ES: Teledeporte HD
+Teledeporte,SP: ES: Teledeporte SD
 Teledeporte,ES-6 Teledeporte (FHD)
 Teledeporte,ES-6 Teledeporte (HD)
 Teledeporte,ES-6 Teledeporte (SD)
