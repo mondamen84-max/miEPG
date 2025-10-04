@@ -414,7 +414,7 @@ M+ Ellas Vamos HD,SP: ES: #VAMOS ELLAS SD
 M+ Ellas Vamos HD,SP: ES-6 #VAMOS ELLAS (FHD)
 M+ Ellas Vamos HD,SP: ES-6 #VAMOS ELLAS (HD)
 M+ Ellas Vamos HD,SP: ES-6 M+ELLAS #V
-M+ Estrenos HD,"M+ Cine FHD (ES)
+M+ Estrenos HD,M+ Cine FHD (ES)
 M+ Estrenos HD,ES: M. Cine FHD
 M+ Estrenos HD,ES: M. Cine HD
 M+ Estrenos HD,ES: M. Cine SD
@@ -782,7 +782,7 @@ M+ Deportes HD,M+ Deportes SD (ES)
 M+ Documentales HD,M+ Documentales SD (ES)
 M+ Drama HD,M+ Drama SD (ES)
 M+ Ellas Vamos HD,#VAMOS ELLAS SD (ES)
-M+ Estrenos HD,"M+ Cine SD (ES)
+M+ Estrenos HD,M+ Cine SD (ES)
 M+ Golf HD,M+ Golf SD (ES)
 M+ Hits HD,M+ Series SD (ES)
 M+ Indie HD,M+ Indie SD (ES)
