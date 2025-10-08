@@ -240,7 +240,6 @@ Discovery,ES: Discovery Chanel SD
 Discovery,ES-6 DISCOVERY CHANNEL FHD
 Discovery,ES-6 DISCOVERY CHANNEL HD
 Discovery,ES-6 DISCOVERY CHANNEL 
-Discovery Turbo
 Disney Junior,Disney JR HD (ES)
 Disney Junior,ES: Disney Juniorl FHD
 Disney Junior,ES: Disney Junior HD
@@ -286,7 +285,6 @@ Energy,ES-6 ENERGY FHD
 Energy,ES-6 ENERGY HD
 Energy,ES-6 ENERGY 
 Esport 3,Esport 3 SD (ES)
-Esport3 Catalunya
 Eurosport 1 HD,Eurosport 1 FHD (ES)
 Eurosport 1 HD,Eurosport 1 UHD (ES)
 Eurosport 1 HD,Eurosport 1 FHD (3MB) (ES)
@@ -361,13 +359,6 @@ LaLiga TV Hypermotion 2,SP: ES: Liga Hypermotion 2 SD
 LaLiga TV Hypermotion 2,ES-6 LALIGA TV HYPERMOTION 2 FHD
 LaLiga TV Hypermotion 2,ES-6 LALIGA TV HYPERMOTION 2 HD
 LaLiga TV Hypermotion 2,ES-6 LALIGA TV HYPERMOTION 2 
-LaLiga TV Hypermotion 3,Liga Hypermotion 3 FHD (ES)
-LaLiga TV Hypermotion 3,ES: Liga Hypermotion 3 FHD
-LaLiga TV Hypermotion 3,ES: Liga Hypermotion 3 HD
-LaLiga TV Hypermotion 3,ES: Liga Hypermotion 3 SD
-LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (FHD)
-LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (HD)
-LaLiga TV Hypermotion 3,ES-6 Liga Hypermotion 3 (SD)
 LaLiga TV Hypermotion HD,Liga Hypermotion FHD (ES)
 LaLiga TV Hypermotion HD,SP: ES: Liga Hypermotion FHD
 LaLiga TV Hypermotion HD,SP: ES: Liga Hypermotion HD
@@ -489,13 +480,6 @@ M+ LaLiga 2 HD,SP: ES: M. LaLiga 2 SD
 M+ LaLiga 2 HD,ES-6 M+ LaLiga 2 (FHD)
 M+ LaLiga 2 HD,ES-6 M+ LaLiga 2 (HD)
 M+ LaLiga 2 HD,ES-6 M+ LaLigaTV 2
-M+ LaLiga 3 HD,M+ LaLiga 3 FHD (ES)
-M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 FHD
-M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 HD
-M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 SD
-M+ LaLiga 3 HD,ES-6 M+ LaLigaTV 3 FHD
-M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (HD)
-M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (SD)
 M+ LaLiga HD,M+ LaLiga FHD (ES) Multiaudio
 M+ LaLiga HD,SP: ES: M. LaLiga FHD
 M+ LaLiga HD,SP: ES: M. LaLiga HD
@@ -513,7 +497,6 @@ M+ Liga de Campeones 2 HD,SP: ES: M. Liga Campeones 2 SD
 M+ Liga de Campeones 2 HD,ES-6 M+ CAMPEONES 2 (1080P)
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (HD)
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (SD)
-M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (ES)
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (3MB) (ES)
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 HD 2Mb) (ES)
