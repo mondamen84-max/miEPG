@@ -344,7 +344,6 @@ La 2,ES: La 2 SD
 La 2,ES-6 La 2 (FHD)
 La 2,ES-6 La 2 (HD)
 La 2,ES-6 La 2 (SD)
-La Revuelta
 La Sexta HD,La Sexta FHD (ES)
 La Sexta HD,La Sexta HD 2MB (ES)
 La Sexta HD,ES: La Sexta FHD
@@ -353,11 +352,7 @@ La Sexta HD,ES: La Sexta SD
 La Sexta HD,ES-6 LA SEXTA (FHD)
 La Sexta HD,ES-6 LA SEXTA (HD)
 La Sexta HD,ES-6 LA SEXTA (SD)
-LALIGA Inside
 LaLiga TV BAR 2,LaLigaTV BAR2 ( VODAFONE )
-LaLiga TV BAR 3
-LaLiga TV BAR 4
-LaLiga TV BAR 5
 LaLiga TV BAR HD,LaLigaTV BAR ( VODAFONE )
 LaLiga TV Hypermotion 2,Liga Hypermotion 2 FHD (ES)
 LaLiga TV Hypermotion 2,SP: ES: Liga Hypermotion 2 FHD
@@ -462,7 +457,6 @@ M+ Estrenos HD,ES: M. Cine SD
 M+ Estrenos HD,ES-6 M+ Cine FHD
 M+ Estrenos HD,ES-6 M+ Cine HD
 M+ Estrenos HD,ES-6 M+ Cine (SD)
-M+ Golf 2 HD
 M+ Golf HD,M+ Golf FHD (ES)
 M+ Golf HD,M+ Golf HD 2Mb (ES)
 M+ Golf HD,SP: ES: M. Golf FHD
@@ -487,7 +481,6 @@ M+ Indie HD,ES: M. Indie SD
 M+ Indie HD,ES-6 M+ Indie FHD
 M+ Indie HD,ES-6 M+ Indie HD
 M+ Indie HD,ES-6 M+ Indie SD
-M+ LaLiga 2 HDR
 M+ LaLiga HDR,M.LALIGA HDR (ES)
 M+ LaLiga 2 HD,M+ LaLiga 2 FHD (ES)
 M+ LaLiga 2 HD,SP: ES: M. LaLiga 2 FHD
@@ -503,9 +496,6 @@ M+ LaLiga 3 HD,SP: ES: M. LaLiga 3 SD
 M+ LaLiga 3 HD,ES-6 M+ LaLigaTV 3 FHD
 M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (HD)
 M+ LaLiga 3 HD,ES-6 M+ LaLiga 3 (SD)
-M+ LaLiga 4,M+ LaLiga 4 FHD (ES)*
-M+ LaLiga 5
-M+ LaLiga 6
 M+ LaLiga HD,M+ LaLiga FHD (ES) Multiaudio
 M+ LaLiga HD,SP: ES: M. LaLiga FHD
 M+ LaLiga HD,SP: ES: M. LaLiga HD
@@ -533,6 +523,8 @@ M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 SD
 M+ Liga de Campeones 3 HD,ES-6 M+ CAMPEONES 3 FULLHD
 M+ Liga de Campeones 3 HD,ES-6 M+ Liga Campeones 3 (HD)
 M+ Liga de Campeones 3 HD,ES-6 M+ Liga Campeones 3 (SD)
+M+ Liga de Campeones 4,M+ Liga Campeones FHD (ES)
+M+ Liga de Campeones 4,M+ Liga Campeones SD (ES)
 M+ Liga de Campeones HD,M+ Liga Campeones FHD (ES) Multiaudio
 M+ Liga de Campeones HD,M+ Liga Campeones UHD (ES) 
 M+ Liga de Campeones HD,M+ Liga Campeones FHD (3MB) (ES) 
@@ -566,7 +558,6 @@ M+ PopUp 2,ES: M. POPUP 2 SD
 M+ PopUp 2,ES-6 M+ POPUP 2 (FHD)
 M+ PopUp 2,ES-6 M+ POPUP 2 (HD)
 M+ PopUp 2,ES-6 M+ POPUP 2 (SD)
-M+ Vacaciones
 M+ Vamos HD,#VAMOS FHD (ES)
 M+ Vamos HD,#VAMOS HD 2MB (ES)
 M+ Vamos HD,SP: ES: #Vamos FHD
@@ -591,8 +582,6 @@ Mezzo Live HD,ES-6 Mezzo Live (FHD)
 Mezzo Live HD,ES-6 Mezzo Live (HD)
 Mezzo Live HD,ES-6 Mezzo Live (SD)
 Moto ADV
-Motorvision
-Motorvision TV
 Movistar Plus+ 2 HD,Movistar Plus+ 2 FHD (ES)
 Movistar Plus+ 2 HD,SP: ES: M. Plus 2 FHD
 Movistar Plus+ 2 HD,SP: ES: M. Plus 2 HD
@@ -652,7 +641,6 @@ Nickelodeon HD,ES: Nickelodeon SD
 Nickelodeon HD,ES-6 NICKELODEON FHD
 Nickelodeon HD,ES-6 NICKELODEON HD
 Nickelodeon HD,ES-6 NICKELODEON 
-NickMusic
 Nova,Nova FHD (ES)
 Nova,ES: Nova FHD
 Nova,ES: Nova HD
@@ -660,7 +648,6 @@ Nova,ES: Nova SD
 Nova,ES-6 NOVA FHD
 Nova,ES-6 NOVA HD
 Nova,ES-6 NOVA 
-Nuestra Tele Internacional
 Odisea,Odisea FHD (ES)
 Odisea,Odisea UHD (ES)
 Odisea,ES: Odisea FHD
@@ -678,7 +665,6 @@ Somos,ES: SOMOS SD
 Somos,ES-6 SOMOS FHD
 Somos,ES-6 SOMOS HD
 Somos,ES-6 SOMOS 
-Somos Cine
 STAR Channel HD,Star+ FHD (ES)
 STAR Channel HD,Star+ HD 2Mb (ES)
 STAR Channel HD,ES: Star Channel FHD
@@ -687,7 +673,6 @@ STAR Channel HD,ES: Star Channel SD
 STAR Channel HD,ES-6 STAR FHD
 STAR Channel HD,ES-6 STAR HD
 STAR Channel HD,ES-6 STAR 
-Star TVE HD
 Sundance TV,Sundance TV FHD (ES)
 Sundance TV,ES: Sundance TV FHD
 Sundance TV,ES: Sundance TV HD
@@ -706,7 +691,6 @@ SyFy HD,ES: Syfy SD
 SyFy HD,ES-6 SYFY FHD
 SyFy HD,ES-6 SYFY HD
 SyFy HD,ES-6 SYFY 
-TAC12
 TCM HD,TCM FHD (ES)
 TCM HD,TCM HD 2Mb (ES)
 TCM HD,ES: TCM FHD
@@ -715,7 +699,6 @@ TCM HD,ES: TCM SD
 TCM HD,ES-6 TCM FHD
 TCM HD,ES-6 TCM HD
 TCM HD,ES-6 TCM 
-Tele Elx
 Telecinco HD,Telecinco FHD (ES)
 Telecinco HD,Telecinco HD 2MB (ES)
 Telecinco HD,ES: Telecinco FHD
@@ -753,7 +736,10 @@ TV3 Catalunya,ES: TV3 SD
 TV3 Catalunya,ES-6 TV3 FHD
 TV3 Catalunya,ES-6 TV3 (HD)
 TV3 Catalunya,ES-6 TV3 (SD)
-TV3CAT Catalunya
+TVG,TVG FHD (ES)
+TVG,TVG SD (ES)
+TVG2,TVG2 FHD (ES)
+TVG2,TVG2 SD (ES)
 UBEAT,U-BEAT FHD (ES)
 UBEAT,ES: U-BEAT FHD
 UBEAT,ES: U-BEAT HD
@@ -852,10 +838,8 @@ M+ LaLiga 3 HD,M+ LaLiga 3 SD (ES)
 M+ LaLiga 4,M+ LaLiga 4 SD (ES)
 M+ LaLiga HD,M+ LaLiga SD (ES) Multiaudio
 M+ Liga de Campeones 2 HD,M+ Liga Campeones 2 SD (ES) Multiaudio
-M+ Liga de Campeones 2 HDR
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 SD (ES)
 M+ Liga de Campeones HD,M+ Liga Campeones SD (ES) Multiaudio
-M+ Liga de Campeones HDR
 M+ Originales HD,M+ Originales SD (ES)
 M+ PopUp,M+ POPUP SD (ES)
 M+ PopUp 2,M+ POPUP 2 SD (ES)
@@ -886,7 +870,6 @@ Teledeporte,Teledeporte SD (ES)
 Ten,Ten SD (ES)
 TRECE,Trece SD (ES)
 TV3,Tv3 SD (ES)
-TV3 Catalunya,TV3 SD (ES)
 UBEAT,U-BEAT SD (ES)
 Warner TV HD,WARNER TV SD (ES)
 XTRM,Xtrm SD (ES)
