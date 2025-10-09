@@ -506,6 +506,7 @@ M+ PopUp 2,ES-6 M+ POPUP 2 (FHD)
 M+ PopUp 2,ES-6 M+ POPUP 2 (HD)
 M+ PopUp 2,ES-6 M+ POPUP 2 (SD)
 M+ Vamos HD,#VAMOS FHD (ES)
+M+ Vamos HD,#VAMOS FHD (3MB) (ES)
 M+ Vamos HD,#VAMOS HD 2MB (ES)
 M+ Vamos HD,SP: ES: #Vamos FHD
 M+ Vamos HD,SP: ES: #Vamos HD
