@@ -1,17 +1,5 @@
 24 Horas,24 Horas FHD (ES)
-24 Horas,ES: 24h FHD
-24 Horas,ES: 24h HD
-24 Horas,ES: 24h SD
-24 Horas,ES-6 24 HORAS (FHD)
-24 Horas,ES-6 24 HORAS (HD)
-24 Horas,ES-6 24 HORAS (SD)
 324,3/24 SD (ES)
-324,ES: 3/24 FHD
-324,ES: 3/24 HD
-324,ES: 3/24 SD
-324,ES-6 3/24 (FHD)
-324,ES-6 3/24 (HD)
-324,ES-6 3/24 (SD)
 324 Catalunya,3/24 SD (ES)
 AMC Break,AMC Break FHD (ES)
 AMC Break,ES: AMC Break FHD
@@ -82,12 +70,6 @@ Boing,ES-6 Boing (FHD)
 Boing,ES-6 Boing (HD)
 Boing,ES-6 Boing (SD)
 BOM Cine,Bom Cine FHD (ES)
-BOM Cine,ES: Bom Cine FHD
-BOM Cine,ES: Bom Cine HD
-BOM Cine,ES: Bom Cine SD
-BOM Cine,ES-6 BOM CINE (FHD)
-BOM Cine,ES-6 BOM CINE (HD)
-BOM Cine,ES-6 BOM CINE (SD)
 BuenViaje,BUEN VIAJE FHD (ES)
 BuenViaje,ES: Buen Viaje FHD
 BuenViaje,ES: Buen Viaje HD
@@ -120,12 +102,6 @@ Canal Hollywood HD,ES-6 Hollywood HD
 Canal Hollywood HD,ES-6 Hollywood 
 Canal Sur HD,Canal Sur HD (ES)
 Clan,Clan Tve FHD (ES)
-Clan,ES: Clan TVE FHD
-Clan,ES: Clan TVE HD
-Clan,ES: Clan TVE SD
-Clan,ES-6 CLAN FHD
-Clan,ES-6 CLAN HD
-Clan,ES-6 CLAN 
 Comedias (Rakuten TV),RakutenTV Comedias HD (ES)
 Comedy Central HD,Comedy Central FHD (ES)
 Comedy Central HD,Comedy Central HD 2Mb (ES)
@@ -278,12 +254,6 @@ Dreamworks HD,ES-6 DreamWorks HD
 Dreamworks HD,ES-6 DreamWorks 
 En Familia (Rakuten TV),EnFamilia HD (ES)
 Energy,Energy FHD (ES)
-Energy,ES: Energy TV FHD
-Energy,ES: Energy TV HD
-Energy,ES: Energy TV SD
-Energy,ES-6 ENERGY FHD
-Energy,ES-6 ENERGY HD
-Energy,ES-6 ENERGY 
 Esport 3,Esport 3 SD (ES)
 Eurosport 1 HD,Eurosport 1 FHD (ES)
 Eurosport 1 HD,Eurosport 1 UHD (ES)
@@ -302,13 +272,7 @@ Eurosport 2,SP: ES: Eurosport 2 SD
 Eurosport 2,ES-6 EUROSPORT 2 FHD
 Eurosport 2,ES-6 EUROSPORT 2 HD
 Eurosport 2,ES-6 EUROSPORT 2 
-Factoría de Ficción,FDF FHD (ES)
-Factoría de Ficción,ES: FDF FHD
-Factoría de FicciónD,ES: FDF HD
-Factoría de Ficción,ES: FDF SD
-Factoría de Ficción,ES-6 FDF FHD
-Factoría de Ficción,ES-6 FDF HD
-Factoría de Ficción,ES-6 FDF 
+Factoría de Ficción,FDF FHD (ES) 
 Fight Sports,Fight Sports (MI TELE PLUS) (ES)
 Fight Time,Fight Time HD (ES)
 GOL,Gol Play FHD (ES)
@@ -625,12 +589,6 @@ Nickelodeon HD,ES-6 NICKELODEON FHD
 Nickelodeon HD,ES-6 NICKELODEON HD
 Nickelodeon HD,ES-6 NICKELODEON 
 Nova,Nova FHD (ES)
-Nova,ES: Nova FHD
-Nova,ES: Nova HD
-Nova,ES: Nova SD
-Nova,ES-6 NOVA FHD
-Nova,ES-6 NOVA HD
-Nova,ES-6 NOVA 
 Odisea,Odisea FHD (ES)
 Odisea,Odisea UHD (ES)
 Odisea,ES: Odisea FHD
@@ -684,12 +642,6 @@ TCM HD,ES-6 TCM HD
 TCM HD,ES-6 TCM 
 Telecinco HD,Telecinco FHD (ES)
 Telecinco HD,Telecinco HD 2MB (ES)
-Telecinco HD,ES: Telecinco FHD
-Telecinco HD,ES: Telecinco HD
-Telecinco HD,ES: Telecinco SD
-Telecinco HD,ES-6 TELECINCO (FHD)
-Telecinco HD,ES-6 TELECINCO (HD)
-Telecinco HD,ES-6 TELECINCO (SD)
 Teledeporte,Teledeporte FHD (ES)
 Teledeporte,SP: ES: Teledeporte FHD
 Teledeporte,SP: ES: Teledeporte HD
@@ -698,19 +650,7 @@ Teledeporte,ES-6 TELEDEPORTE FHD
 Teledeporte,ES-6 TELEDEPORTE HD
 Teledeporte,ES-6 TELEDEPORTE
 Ten,Ten FHD (ES)
-Ten,ES: Ten FHD
-Ten,ES: Ten HD
-Ten,ES: Ten SD
-Ten,ES-6 TEN FHD
-Ten,ES-6 TEN HD
-Ten,ES-6 TEN 
 TRECE,Trece FHD (ES)
-TRECE,ES: Trece FHD
-TRECE,ES: Trece HD
-TRECE,ES: Trece SD
-TRECE,ES-6 Trece (FHD)
-TRECE,ES-6 Trece (HD)
-TRECE,ES-6 Trece (SD)
 TV3,Tv3 SD (ES)
 TV3 Catalunya,TV3 FHD (ES)
 TV3 Catalunya,ES: TV3 FHD
