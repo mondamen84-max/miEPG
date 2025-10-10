@@ -23,7 +23,7 @@ AMC HD,ES-6 AMC FHD
 AMC HD,ES-6 AMC HD
 AMC HD,ES-6 AMC 
 Antena 3 HD,Antena 3 FHD (ES)
-Antena 3 HD,Antena 3 SD 2MB (ES)
+Antena 3 HD,Antena 3 HD 2MB (ES)
 Antena 3 HD,ES: Antena 3 FHD 
 Antena 3 HD,ES: Antena 3 HD 
 Antena 3 HD,ES: Antena 3 SD 
@@ -463,7 +463,7 @@ M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (HD)
 M+ Liga de Campeones 2 HD,ES-6 M+ Liga Campeones 2 (SD)
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (ES)
 M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 FHD (3MB) (ES)
-M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 HD 2Mb) (ES)
+M+ Liga de Campeones 3 HD,M+ Liga Campeones 3 HD 2Mb (ES)
 M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 FHD
 M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 HD
 M+ Liga de Campeones 3 HD,SP: ES: M. Liga Campeones 3 SD
