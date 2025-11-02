@@ -134,7 +134,7 @@ DARK,ES: DARK HD
 DARK,ES: DARK SD
 DARK,DARK FHD
 DARK,DARK HD
-DARK,DARK 
+DARK,ES-6 | DARK 
 DAZN 1 BAR,DAZN 1 BAR ( VODAFONE )
 DAZN 1 HD,DAZN 1 FHD (ES)
 DAZN 1 HD,DAZN 1 HD 2MB (ES)
@@ -550,7 +550,7 @@ MTV España,ES: Mtv Espana HD
 MTV España,ES: Mtv Espana SD
 MTV España,MTV FHD
 MTV España,Mtv Espana (HD)
-MTV España,ES-6|MTV
+MTV España,ES-6 | MTV
 Nat Geo Wild HD,Nat Geo Wild FHD (ES)
 Nat Geo Wild HD,Nat Geo Wild HD 2Mb (ES)
 Nat Geo Wild HD,ES: NatGeo Wild FHD
@@ -606,7 +606,7 @@ Somos,ES: SOMOS HD
 Somos,ES: SOMOS SD
 Somos,SOMOS FHD
 Somos,SOMOS HD
-Somos,ES-6|SOMOS 
+Somos,ES-6 | SOMOS 
 STAR Channel HD,Star+ FHD (ES)
 STAR Channel HD,Star+ HD 2Mb (ES)
 STAR Channel HD,ES: Star Channel FHD
