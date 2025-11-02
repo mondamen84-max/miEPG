@@ -297,7 +297,7 @@ La 1 HD,ES: La 1 HD
 La 1 HD,ES: La 1 SD
 La 1 HD,La 1 (FHD)
 La 1 HD,La 1 (HD)
-La 1 HD,ES-6|LA 1
+La 1 HD,ES-6 | LA 1
 La 2,La 2 FHD (ES)
 La 2,La 2 HD 2MB (ES)
 La 2,ES: La 2 FHD
