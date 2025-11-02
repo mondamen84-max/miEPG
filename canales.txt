@@ -44,7 +44,7 @@ AXN HD,ES: AXN HD
 AXN HD,ES: AXN SD
 AXN HD,AXN FHD
 AXN HD,AXN HD
-AXN HD,ES-6|AXN 
+AXN HD,ES-6 | AXN 
 AXN Movies HD,AXN Movies FHD (ES)
 AXN Movies HD,AXN Movies HD 2MB (ES)
 AXN Movies HD,ES: AXN Movies FHD
@@ -236,14 +236,14 @@ DKISS,ES: DKiss HD
 DKISS,ES: DKiss SD
 DKISS,ES-6 DKISS FHD
 DKISS,ES-6 DKISS HD
-DKISS,ES-6|DKISS 
+DKISS,ES-6 | DKISS 
 DMAX,DMAX HD (ES)
 DMAX,ES: DMAX FHD
 DMAX,ES: DMAX HD
 DMAX,ES: DMAX SD
 DMAX,DMAX FHD
 DMAX,DMAX HD
-DMAX,ES-6|DMAX 
+DMAX,ES-6 | DMAX 
 Dramas (Rakuten TV),RakutenTV Drama HD (ES)
 Dreamworks HD,M+ DreamWorks FHD (ES)
 Dreamworks HD,ES: DreamWorks FHD
@@ -520,7 +520,7 @@ Mega,ES: MEGA HD
 Mega,ES: MEGA SD
 Mega,MEGA FHD
 Mega,MEGA HD
-Mega,ES-6|MEGA 
+Mega,ES-6 | MEGA 
 Mezzo
 Mezzo Live HD,Mezzo Live FHD (ES)
 Mezzo Live HD,ES: Mezzo Live FHD
@@ -614,7 +614,7 @@ STAR Channel HD,ES: Star Channel HD
 STAR Channel HD,ES: Star Channel SD
 STAR Channel HD,STAR FHD
 STAR Channel HD,STAR HD
-STAR Channel HD,ES-6|STAR 
+STAR Channel HD,ES-6 | STAR 
 Sundance TV,Sundance TV FHD (ES)
 Sundance TV,ES: Sundance TV FHD
 Sundance TV,ES: Sundance TV HD
@@ -632,7 +632,7 @@ SyFy HD,ES: Syfy HD
 SyFy HD,ES: Syfy SD
 SyFy HD,SYFY FHD
 SyFy HD,SYFY HD
-SyFy HD,ES-6|SYFY 
+SyFy HD,ES-6 | SYFY 
 TCM HD,TCM FHD (ES)
 TCM HD,TCM HD 2Mb (ES)
 TCM HD,ES: TCM FHD
@@ -640,7 +640,7 @@ TCM HD,ES: TCM HD
 TCM HD,ES: TCM SD
 TCM HD,TCM FHD
 TCM HD,TCM HD
-TCM HD,ES-6|TCM 
+TCM HD,ES-6 | TCM 
 Telecinco HD,Telecinco FHD (ES)
 Telecinco HD,Telecinco HD 2MB (ES)
 Teledeporte,Teledeporte FHD (ES)
@@ -659,7 +659,7 @@ TV3 Catalunya,ES: TV3 HD
 TV3 Catalunya,ES: TV3 SD
 TV3 Catalunya,TV3 FHD
 TV3 Catalunya,TV3 (HD)
-TV3 Catalunya,ES-6|TV3 
+TV3 Catalunya,ES-6 | TV3 
 TVG,Galicia TV HD (ES)
 TVG2,Galicia TV 2 HD (ES)
 UBEAT,U-BEAT FHD (ES)
@@ -668,7 +668,7 @@ UBEAT,ES: U-BEAT HD
 UBEAT,ES: U-BEAT SD
 UBEAT,U-BEAT (FHD)
 UBEAT,U-BEAT (HD)
-UBEAT,ES-6|UBEAT 
+UBEAT,ES-6 | UBEAT 
 Warner TV HD,WARNER TV FHD (ES)
 Warner TV HD,WARNER TV HD 2Mb (ES)
 Warner TV HD,ES: Warner TV FHD
@@ -683,7 +683,7 @@ XTRM,ES: XTRM HD
 XTRM,ES: XTRM SD
 XTRM,XTRM FHD
 XTRM,XTRM HD
-XTRM,ES-6|XTRM 
+XTRM,ES-6 | XTRM 
 24 Horas,24 Horas SD (ES)
 324 Catalunya,3/24 SD (ES)
 AMC Break,AMC Break SD (ES)
